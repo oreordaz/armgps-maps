@@ -8,17 +8,17 @@
         "ru": "Армения",
         "en": "Armenia"
       },
-      "version": "2026-08-29.1",
+      "version": "2026-08-29.2",
       "files": {
         "map": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.1/armenia.pmtiles",
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.2/armenia.pmtiles",
           "bytes": 51712348,
           "sha256": "e87cad914c5c2d91f8b1f2c3407998048d0194f78c5fd4db8104dc76485b19be"
         },
         "search": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.1/armenia-search.sqlite",
-          "bytes": 36343808,
-          "sha256": "59e94eb18d839e2ae0cb388b2c568d8c91e6f55049415ef41884e36a434d1ab8"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.2/armenia-search.sqlite",
+          "bytes": 36347904,
+          "sha256": "b631f3f367993a41d70c8fbb01e88083981b66d187fa57552e4dd2e8a08c7964"
         }
       }
     }
