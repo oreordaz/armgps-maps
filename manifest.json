@@ -1,0 +1,22 @@
+{
+  "schema": 1,
+  "regions": [
+    {
+      "id": "armenia",
+      "name": { "hy": "Հայաստան", "ru": "Армения", "en": "Armenia" },
+      "version": "2026-08-29.6",
+      "files": {
+        "map": {
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.6/armenia.pmtiles",
+          "bytes": 51712348,
+          "sha256": "e87cad914c5c2d91f8b1f2c3407998048d0194f78c5fd4db8104dc76485b19be"
+        },
+        "search": {
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.6/armenia-search.sqlite",
+          "bytes": 36130816,
+          "sha256": "3ad6bae6cec5f28d78a727e556e7322c07ce9de1cfc4117da9c8b99e9099fda2"
+        }
+      }
+    }
+  ]
+}
