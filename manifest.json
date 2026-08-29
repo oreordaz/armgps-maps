@@ -9,17 +9,22 @@
         "en": "Armenia",
         "ka": "სომხეთი"
       },
-      "version": "2026-08-29.2",
+      "version": "2026-08-29.3",
       "files": {
         "map": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.2/armenia.pmtiles",
-          "bytes": 51712348,
-          "sha256": "e87cad914c5c2d91f8b1f2c3407998048d0194f78c5fd4db8104dc76485b19be"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.3/armenia.pmtiles",
+          "bytes": 51713239,
+          "sha256": "8bb05f210957022ff989271edf58842c11c4870fa7ad7ed288e0730c4ac37075"
         },
         "search": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.2/armenia-search.sqlite",
-          "bytes": 36347904,
-          "sha256": "b631f3f367993a41d70c8fbb01e88083981b66d187fa57552e4dd2e8a08c7964"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.3/armenia-search.sqlite",
+          "bytes": 36544512,
+          "sha256": "40deec83c3b4e8df6d66c2779b73db88ce33072b4c3c01188dabe4d3e099652b"
+        },
+        "terrain": {
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.3/armenia-terrain.pmtiles",
+          "bytes": 52321115,
+          "sha256": "9bd740be566dada67eca4828195d7650bbf23e3e2d3c6be3ee2a34cf7a8de2ac"
         }
       }
     },
