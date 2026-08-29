@@ -6,7 +6,8 @@
       "name": {
         "hy": "Հայաստան",
         "ru": "Армения",
-        "en": "Armenia"
+        "en": "Armenia",
+        "ka": "სომხეთი"
       },
       "version": "2026-08-29.2",
       "files": {
@@ -19,6 +20,28 @@
           "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-29.2/armenia-search.sqlite",
           "bytes": 36347904,
           "sha256": "b631f3f367993a41d70c8fbb01e88083981b66d187fa57552e4dd2e8a08c7964"
+        }
+      }
+    },
+    {
+      "id": "georgia",
+      "name": {
+        "hy": "Վրաստան",
+        "ru": "Грузия",
+        "en": "Georgia",
+        "ka": "საქართველო"
+      },
+      "version": "2026-08-29.1",
+      "files": {
+        "map": {
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-29.1/georgia.pmtiles",
+          "bytes": 124305686,
+          "sha256": "3132ca8c6b663802303ac6545c817a32bddbcf41a5660223534ed80bd05f21fb"
+        },
+        "search": {
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-29.1/georgia-search.sqlite",
+          "bytes": 44883968,
+          "sha256": "180b7731ec5f37ad471f5147ad757595b48ebb44fbc3fb925878e8b41daa3e3c"
         }
       }
     }
