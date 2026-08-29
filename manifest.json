@@ -36,17 +36,22 @@
         "en": "Georgia",
         "ka": "საქართველო"
       },
-      "version": "2026-08-29.1",
+      "version": "2026-08-29.2",
       "files": {
         "map": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-29.1/georgia.pmtiles",
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-29.2/georgia.pmtiles",
           "bytes": 124305686,
           "sha256": "3132ca8c6b663802303ac6545c817a32bddbcf41a5660223534ed80bd05f21fb"
         },
         "search": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-29.1/georgia-search.sqlite",
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-29.2/georgia-search.sqlite",
           "bytes": 44883968,
           "sha256": "180b7731ec5f37ad471f5147ad757595b48ebb44fbc3fb925878e8b41daa3e3c"
+        },
+        "terrain": {
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-29.2/georgia-terrain.pmtiles",
+          "bytes": 75131936,
+          "sha256": "ee33137936fd3c18e32881537d530bc74005544a72e08f9f4568438420979332"
         }
       }
     }
