@@ -41,27 +41,27 @@
         "en": "Georgia",
         "ka": "საქართველო"
       },
-      "version": "2026-08-30.1",
+      "version": "2026-08-30.2",
       "files": {
         "map": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.1/georgia.pmtiles",
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.2/georgia.pmtiles",
           "bytes": 124232391,
           "sha256": "72a1ba2745fb00a27ecd8e6e78e428e7e5685efca39c37048a8c331a09f367c6"
         },
         "search": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.1/georgia-search.sqlite",
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.2/georgia-search.sqlite",
           "bytes": 44683264,
           "sha256": "23c2aa38147f7b1f19a776d6c073788abfcf3178d9d617c6bc0a77b705f5022e"
         },
         "terrain": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.1/georgia-terrain.pmtiles",
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.2/georgia-terrain.pmtiles",
           "bytes": 75131936,
           "sha256": "ee33137936fd3c18e32881537d530bc74005544a72e08f9f4568438420979332"
         },
         "route": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.1/georgia-valhalla.zip",
-          "bytes": 54857110,
-          "sha256": "a1acd4b69b4b4e1257476a3c00feafef299a67addb445a277f663cc30cc1fd3e"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.2/georgia-valhalla.zip",
+          "bytes": 51795625,
+          "sha256": "42493e927173d7b132c0d8c70db53cdd9e7d2e6067c50d13685bcead0dd67881"
         }
       }
     }
