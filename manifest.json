@@ -9,27 +9,27 @@
         "en": "Armenia",
         "ka": "სომხეთი"
       },
-      "version": "2026-08-30.2",
+      "version": "2026-08-31.1",
       "files": {
         "map": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-30.2/armenia.pmtiles",
-          "bytes": 51674518,
-          "sha256": "2f6740b7d7f33ef35e367316860901648a7ff30058b06c4e5c92b73859844a4d"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-31.1/armenia.pmtiles",
+          "bytes": 51698312,
+          "sha256": "f3e90c282d7dc65802b0ba715789d195d7f5a399287ad9faf169037f69ead5e3"
         },
         "search": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-30.2/armenia-search.sqlite",
-          "bytes": 36319232,
-          "sha256": "31ea26acd8256b5a5d5d3f772adc437c1c0f28599264aa8235f7a4c027e28ce7"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-31.1/armenia-search.sqlite",
+          "bytes": 36335616,
+          "sha256": "340627f2d4976a4b48891dc476b18d72a271799b7b78b34be45379a6236e0bc0"
         },
         "terrain": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-30.2/armenia-terrain.pmtiles",
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-31.1/armenia-terrain.pmtiles",
           "bytes": 52195587,
           "sha256": "1e0abc89037d4f231f6aacf2b5b9f52142154af8aae8b265633c85789ddb3924"
         },
         "route": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-30.2/armenia-valhalla.zip",
-          "bytes": 31615980,
-          "sha256": "5f394ee5d0917814f7d8605d42b48f5442dd24da100f7fc539fadd5d7c84bdf3"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/armenia-2026-08-31.1/armenia-valhalla.zip",
+          "bytes": 31635241,
+          "sha256": "70ae8dba51d0b73abe3b16b99ce171b74204f2502356e48306d1c41da1079dec"
         }
       }
     },
