@@ -41,27 +41,27 @@
         "en": "Georgia",
         "ka": "საქართველო"
       },
-      "version": "2026-08-30.2",
+      "version": "2026-08-31.1",
       "files": {
         "map": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.2/georgia.pmtiles",
-          "bytes": 124232391,
-          "sha256": "72a1ba2745fb00a27ecd8e6e78e428e7e5685efca39c37048a8c331a09f367c6"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-31.1/georgia.pmtiles",
+          "bytes": 124264056,
+          "sha256": "a9f6ac28d2a2c04c36d2c9e479541366fb43b6fb2996b3b0e5c8090b674bfc8f"
         },
         "search": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.2/georgia-search.sqlite",
-          "bytes": 44683264,
-          "sha256": "23c2aa38147f7b1f19a776d6c073788abfcf3178d9d617c6bc0a77b705f5022e"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-31.1/georgia-search.sqlite",
+          "bytes": 44728320,
+          "sha256": "1a84cb716e28311685eb09bca9a5400f88a6e0958bfcd2a7cd810a05c82a5ff0"
         },
         "terrain": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.2/georgia-terrain.pmtiles",
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-31.1/georgia-terrain.pmtiles",
           "bytes": 75131936,
           "sha256": "ee33137936fd3c18e32881537d530bc74005544a72e08f9f4568438420979332"
         },
         "route": {
-          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-30.2/georgia-valhalla.zip",
-          "bytes": 51795625,
-          "sha256": "42493e927173d7b132c0d8c70db53cdd9e7d2e6067c50d13685bcead0dd67881"
+          "url": "https://github.com/oreordaz/armgps-maps/releases/download/georgia-2026-08-31.1/georgia-valhalla.zip",
+          "bytes": 51807996,
+          "sha256": "d7c0b83e6eb07c44a84a8817a088712052016bae2c1b8478be2b4c4f6b835b70"
         }
       }
     }
